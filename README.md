@@ -1,8 +1,8 @@
 # ArfyBot - WhatsApp Multi-Feature Bot
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-![GitHub contributors](https://img.shields.io/github/contributors/kazedepid/whatsapp-bot)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/w/kazedepid/whatsapp-bot)
+![GitHub contributors](https://img.shields.io/github/forks/Arfabdrrhmn/arfybot?style=flat-square)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/w/Arfabdrrhmn/arfybot)
 
 Selamat datang di repositori **ArfyBot** milik saya [(Arfabdrrhmn)](https://github.com/Arfabdrrhmn/arfybot). Proyek ini adalah bot WhatsApp yang dirancang untuk memberikan berbagai fungsi otomatis dan interaksi yang menyenangkan di platform WhatsApp. Bot ini menggunakan pustaka **[Baileys](https://github.com/WhiskeySockets/Baileys)** untuk menghubungkan dan berinteraksi dengan API WhatsApp.
 
@@ -30,8 +30,8 @@ Di file **setting.js**, Anda dapat mengatur nomor pemilik bot dengan menambahkan
 
 ```javascript
 const owner = [
-    ['628xxxx', 'Kaze'], // Nomor dan nama
-    ['628xxxx'] // Hanya nomor
+    ['6285723631631', 'Arfy'], // Nomor dan nama
+    ['6285723631631'] // Hanya nomor
 ]
 ```
 
